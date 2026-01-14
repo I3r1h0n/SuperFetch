@@ -4,7 +4,7 @@
 <img src="assets/logo.png"/>
 <img alt="Rust" src="https://img.shields.io/badge/rust-f04041?style=for-the-badge&labelColor=c0282d&logo=rust">
 <img alt="Crates.io" src="https://img.shields.io/crates/v/superfetch?style=for-the-badge">
-<img alt="Docs.rs" src="https://img.shields.io/github/license/I3r1h0n/SuperFetch?label=license&style=for-the-badge">
+<img alt="Docs.rs" src="https://img.shields.io/docsrs/superfetch?style=for-the-badge">
 <img alt="Lic" src="https://img.shields.io/github/license/I3r1h0n/SuperFetch?label=license&style=for-the-badge">
 </div>
 
