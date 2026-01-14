@@ -1,0 +1,28 @@
+[package]
+name = "superfetch"
+authors = ["I3r1h0n"]
+license = "MIT"
+readme = "README.md"
+categories = ["os", "memory-management"]
+description = """
+A lib allowing to utilize the Windows superfetch magic to translate 
+virtual addresses to physical.
+"""
+version = "0.1.0"
+edition = "2024"
+repository = "https://github.com/I3r1h0n/SuperFetch"
+exclude = [
+    "/.git/*",
+    "/.github/*",
+    "/.gitignore",
+    "/.vscode/*",
+    "/assets/*"
+]
+
+[dependencies]
+ntapi = "0.4.2"
+winapi = { version = "0.3.9", features = ["winnt", "ntdef", "libloaderapi"] }
+
+[dev-dependencies]
+winapi = { version = "0.3.9", features = ["psapi"] }
+widestring = "1.2.1"
