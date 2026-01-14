@@ -13,8 +13,8 @@
 This crate utilizes the [Superfetch](https://learn.microsoft.com/en-us/windows-hardware/test/assessments/superfetch-prepare-memory-duration). 
 This is a Windows service that can speed up data access by preloading it. If you are wondering how it works, I strongly recommend you to read these articles:
  - [Inside windows page frame numbers](https://rayanfam.com/topics/inside-windows-page-frame-number-part1/) by [Sina Karvandi](https://github.com/SinaKarvandi)
- - [Windows address translation deep dive](Ihttps://bsodtutorials.wordpress.com/2024/04/05/windows-address-translation-deep-dive-part-2/) by 0x14c
-- [The SuperFetch Query superpower](https://v1k1ngfr.github.io/superfetchquery-superpower/) by [Viking](https://github.com/v1k1ngfr)
+ - [Windows address translation deep dive](https://bsodtutorials.wordpress.com/2024/04/05/windows-address-translation-deep-dive-part-2/) by 0x14c
+ - [The SuperFetch Query superpower](https://v1k1ngfr.github.io/superfetchquery-superpower/) by [Viking](https://github.com/v1k1ngfr)
 
 Later, I will write a small note explaining his technique on the high level, and leave it on project github.
 
