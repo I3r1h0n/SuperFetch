@@ -3,6 +3,9 @@
 <div align="center">
 <img src="assets/logo.png"/>
 <img alt="Rust" src="https://img.shields.io/badge/rust-f04041?style=for-the-badge&labelColor=c0282d&logo=rust">
+<img alt="Crates.io" src="https://img.shields.io/crates/v/superfetch?style=for-the-badge">
+<img alt="Docs.rs" src="https://img.shields.io/github/license/I3r1h0n/SuperFetch?label=license&style=for-the-badge">
+<img alt="Lic" src="https://img.shields.io/github/license/I3r1h0n/SuperFetch?label=license&style=for-the-badge">
 </div>
 
 ## Overview
@@ -51,6 +54,10 @@ _You can find full example in example folder._
 </div>
 
 Example work demo. Successfull translate virtual memory to physical.
+
+## Contribution
+
+If you have any idea how to improve this crate, want to update it or want to make it utilize more of superfetch magic (ex: list running processes or other), feel free to open an issue or pull request.
 
 ## Creds
 
