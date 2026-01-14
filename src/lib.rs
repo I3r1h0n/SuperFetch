@@ -12,7 +12,7 @@
 //! let mm: MemoryMap = unsafe { MemoryMap::snapshot()? };
 //! let pa: u64 = mm.translate(va)?;
 //! ```
-//! You can find full example in example [folder or project github](https://github.com/I3r1h0n/SuperFetch).
+//! You can find full example in example [folder of project github](https://github.com/I3r1h0n/SuperFetch).
 //! 
 //! ## Details
 //! 

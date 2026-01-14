@@ -8,7 +8,7 @@ description = """
 A lib allowing to utilize the Windows superfetch magic to translate 
 virtual addresses to physical.
 """
-version = "0.1.0"
+version = "0.1.1"
 edition = "2024"
 repository = "https://github.com/I3r1h0n/SuperFetch"
 exclude = [
